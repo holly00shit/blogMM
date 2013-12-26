@@ -2,11 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bdfcfdc4-b489-4ee3-af61-1c37fcc7842c" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/momentjs.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/__init__.py" afterPath="$PROJECT_DIR$/app/__init__.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/templates/base.html" afterPath="$PROJECT_DIR$/app/templates/base.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/templates/posts.html" afterPath="$PROJECT_DIR$/app/templates/posts.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/templates/user.html" afterPath="$PROJECT_DIR$/app/templates/user.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="microblog-0.3.iws" />
@@ -543,7 +538,11 @@
       <created>1388045308098</created>
       <updated>1388045308098</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="add moment.js">
+      <created>1388047280290</created>
+      <updated>1388047280290</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -600,7 +599,8 @@
       <TodoPanelSettings />
     </option>
     <MESSAGE value="add bootstrap" />
-    <option name="LAST_COMMIT_MESSAGE" value="add bootstrap" />
+    <MESSAGE value="add moment.js" />
+    <option name="LAST_COMMIT_MESSAGE" value="add moment.js" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
