@@ -20,6 +20,10 @@ oid = OpenID(app, os.path.join(basedir, 'tmp'))
 
 from app import views, models
 
+from momentjs import momentjs
+app.jinja_env.globals['momentjs'] = momentjs
+
+
 if not app.debug:
     import logging
     from logging.handlers import SMTPHandler
