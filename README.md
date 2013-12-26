@@ -15,3 +15,12 @@ Running
 
 To run the application in the development web server just execute `run.py` with the Python interpreter from the flask virtual environment.
 
+
+blogMM
+======
+
+build a micro blog use flask for practice.
+
+I write this code by code.
+I want to know on earth if I can code about web.
+
