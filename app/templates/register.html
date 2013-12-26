@@ -1,0 +1,19 @@
+<!-- extend base layout -->
+{% extends "base.html" %}
+
+{% block content %}
+
+<h1>Regiser</h1>
+
+<form action="" method="post" name="login">
+    {{ myform.csrf_token }}
+    {{ myform.hidden_tag() }}
+    <p></p>
+    <p><span>username:</span> {{ myform.username(size=40) }}<br>
+       <span>email:</span> {{ myform.email(size=40) }}
+    </p>
+    <p>{{myform.remember_me}} Remember Me</p>
+    <p><input type="submit" value="register"></p>
+</form>
+
+{% endblock %}

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" hash="2206368994">
+    <data-source source="LOCAL" name="app" uuid="29dddc71-0478-4296-9b62-77afc9b42ccf">
+      <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
+      <jdbc-url>jdbc:sqlite:E:\microblog-0.3\app.db</jdbc-url>
+      <libraries />
+    </data-source>
+  </component>
+</project>
+

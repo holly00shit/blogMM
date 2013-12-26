@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component name="dataSourceStorage">
+  <data-source source="LOCAL" name="app" product="" version="" jdbc-version="" driver-name="" driver-version="" uuid="29dddc71-0478-4296-9b62-77afc9b42ccf">
+    <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
+    <jdbc-url>jdbc:sqlite:E:\microblog-0.3\app.db</jdbc-url>
+    <libraries/>
+  </data-source>
+</component>

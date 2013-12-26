@@ -1,0 +1,13 @@
+<!-- extend base layout -->
+{% extends "base.html" %}
+
+{% block content %}
+<h1>Hi, {{g.user.nickname}}!</h1>
+
+<!-- posts is a Paginate object -->
+{% for post in posts %}
+<p>
+  {% include 'posts.html' %}
+</p>
+{% endfor %}
+{% endblock %}
